@@ -4,9 +4,13 @@
 
 # Requirements:
 -HuskyLens AI-based vision sensor
+
 -LED
+
 -concction wires
+
 -Breadboard
+
 -Arduino
 
 ## Implementation Steps:
@@ -21,4 +25,4 @@
 
 5. Download and install the HuskyLens library from the Arduino Library Manager.
 
-# After the connections and coding are done, we now have the ability to detect faces using AI. When a face is detected, the LED will turn on, and when a face is not recognized, the LED will turn off.
+## After the connections and coding are done, we now have the ability to detect faces using AI. When a face is detected, the LED will turn on, and when a face is not recognized, the LED will turn off.
